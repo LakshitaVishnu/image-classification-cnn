@@ -49,19 +49,22 @@ cd cifar10-image-classification
 
 # Install dependencies
 pip install -r requirements.txt
+## 📊 Results
+- **Test Accuracy:** 95%
+- Accuracy & loss curves will be added soon.
 
+---
 
-📊 Results
-Test Accuracy: 95%
-Accuracy & loss curves:
+## 🔮 Future Improvements
+- Implement transfer learning with ResNet or EfficientNet
+- Experiment with larger datasets (CIFAR-100, ImageNet subset)
+- Deploy as a web application using Flask or Streamlit
 
-🔮 Future Improvements
-Implement transfer learning with ResNet or EfficientNet
-Experiment with larger datasets (CIFAR-100, ImageNet subset)
-Deploy as a web application using Flask or Streamlit
+---
 
-🛠 Tools & Technologies
-Python
-TensorFlow & Keras
-NumPy, Matplotlib, scikit-learn
+## 🛠 Tools & Technologies
+- **Python**
+- **TensorFlow & Keras**
+- **NumPy**, **Matplotlib**, **scikit-learn**
+
 
